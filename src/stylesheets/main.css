@@ -1,0 +1,5 @@
+.main__layout{
+background-color: white ;
+display: flex;
+flex-direction: row;    
+}
