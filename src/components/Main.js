@@ -1,6 +1,7 @@
 import Filters from "../components/Filters";
 
 import "../stylesheets/main.css";
+import FormationsList from "./FormationsList";
 
 const Main = (props) => {
   //console.log("Dentro de Footer");
@@ -13,8 +14,9 @@ const Main = (props) => {
         </div>
         
         <div>
-            <button> Entrar </button>
+            <button> Ir a la búsqueda </button>
         </div>
+        <FormationsList />
     </header>
   );
 };

@@ -9,8 +9,10 @@ import logo from './logo.svg';
 
 
 function App() {
-  console.log('Entro a App antes de declarar let y const');
-  
+    console.log('Entro a App antes de declarar let y const');
+      //const formations= [4];    
+      //const [formations, setFormations] = useState([]); mientras no hago la Api
+
   return (
     <div className='App__background'>
       <div className="App_layout">
