@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.2ffc71bf.js",
-    "static/js/787.cb9075c2.chunk.js": "/static/js/787.cb9075c2.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.2ffc71bf.js.map": "/static/js/main.2ffc71bf.js.map",
-    "787.cb9075c2.chunk.js.map": "/static/js/787.cb9075c2.chunk.js.map"
+    "main.css": "/formations-to-be-inspired/static/css/main.1ff58e5b.css",
+    "main.js": "/formations-to-be-inspired/static/js/main.e7ce3c9c.js",
+    "static/js/787.cb9075c2.chunk.js": "/formations-to-be-inspired/static/js/787.cb9075c2.chunk.js",
+    "static/media/Tejas Toledo.png": "/formations-to-be-inspired/static/media/Tejas Toledo.d7933ce30026ee42b2bc.png",
+    "static/media/Aislamientotermico.png": "/formations-to-be-inspired/static/media/Aislamientotermico.dd1a9834971630901043.png",
+    "static/media/Spanish.png": "/formations-to-be-inspired/static/media/Spanish.227e5f6f7b909fbcfec0.png",
+    "static/media/Portuguese.png": "/formations-to-be-inspired/static/media/Portuguese.1bb7f8947be5032cc4eb.png",
+    "static/media/facebook-logo.png": "/formations-to-be-inspired/static/media/facebook-logo.55bab99cf61abe6b5e2e.png",
+    "static/media/logo.svg": "/formations-to-be-inspired/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/formations-to-be-inspired/index.html",
+    "main.1ff58e5b.css.map": "/formations-to-be-inspired/static/css/main.1ff58e5b.css.map",
+    "main.e7ce3c9c.js.map": "/formations-to-be-inspired/static/js/main.e7ce3c9c.js.map",
+    "787.cb9075c2.chunk.js.map": "/formations-to-be-inspired/static/js/787.cb9075c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2ffc71bf.js"
+    "static/css/main.1ff58e5b.css",
+    "static/js/main.e7ce3c9c.js"
   ]
 }
